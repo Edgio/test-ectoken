@@ -1,0 +1,24 @@
+[submodule "py-ectoken"]
+	path = py-ectoken
+	url = git@github.com:VerizonDigital/py-ectoken.git
+[submodule "perl-ectoken"]
+	path = perl-ectoken
+	url = git@github.com:VerizonDigital/perl-ectoken.git
+[submodule "java-ectoken"]
+	path = java-ectoken
+	url = git@github.com:VerizonDigital/java-ectoken.git
+[submodule "php-ectoken"]
+	path = php-ectoken
+	url = git@github.com:VerizonDigital/php-ectoken.git
+[submodule "go-ectoken"]
+	path = go-ectoken
+	url = git@github.com:VerizonDigital/go-ectoken.git
+[submodule "rust-ectoken"]
+	path = rust-ectoken
+	url = git@github.com:VerizonDigital/rust-ectoken.git
+[submodule "cs-ectoken"]
+	path = cs-ectoken
+	url = git@github.com:VerizonDigital/cs-ectoken.git
+[submodule "ectoken"]
+	path = ectoken
+	url = git@github.com:VerizonDigital/ectoken.git
