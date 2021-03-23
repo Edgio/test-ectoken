@@ -4,9 +4,6 @@
 [submodule "perl-ectoken"]
 	path = perl-ectoken
 	url = git@github.com:VerizonDigital/perl-ectoken.git
-[submodule "java-ectoken"]
-	path = java-ectoken
-	url = git@github.com:VerizonDigital/java-ectoken.git
 [submodule "php-ectoken"]
 	path = php-ectoken
 	url = git@github.com:VerizonDigital/php-ectoken.git
