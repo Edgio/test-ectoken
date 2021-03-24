@@ -13,6 +13,7 @@
 [submodule "rust-ectoken"]
 	path = rust-ectoken
 	url = git@github.com:VerizonDigital/rust-ectoken.git
+	branch = main
 [submodule "cs-ectoken"]
 	path = cs-ectoken
 	url = git@github.com:VerizonDigital/cs-ectoken.git
